@@ -1,0 +1,45 @@
+{
+    "questions_and_answers": [
+      {
+        "question": "What is your name?",
+        "answer": "I am your friendly chatbot, here to assist you!"
+      },
+      {
+        "question": "How are you?",
+        "answer": "I'm just a program, but I'm doing great! How can I help you today?"
+      },
+      {
+        "question": "What can you do?",
+        "answer": "I can chat with you, answer your questions, and help you with various tasks. Just ask!"
+      },
+      {
+        "question": "What is the weather like today?",
+        "answer": "Sorry, I can't check the weather, but you can ask your phone or search it online."
+      },
+      {
+        "question": "Tell me a joke.",
+        "answer": "Why don't skeletons fight each other? They don't have the guts!"
+      },
+      {
+        "question": "Who created you?",
+        "answer": "I was created by developers to assist and provide answers!"
+      },
+      {
+        "question": "Can you play music?",
+        "answer": "Unfortunately, I can't play music, but I can recommend songs or help you find music online!"
+      },
+      {
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+      },
+      {
+        "question": "How do I contact support?",
+        "answer": "You can contact support by sending an email to support@example.com."
+      },
+      {
+        "question": "What is the meaning of life?",
+        "answer": "That's a deep question! Some say it's 42, others believe it's about finding happiness and helping others."
+      }
+    ]
+  }
+  
